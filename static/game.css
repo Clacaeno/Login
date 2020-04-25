@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  margin: auto;
+  background-color:blanchedalmond;
+}
+
+#game{
+  background-color: white;
+  border: 1px solid red;
+  width: 80%;
+  height: 40%;
+  margin: 0 auto;
+}
